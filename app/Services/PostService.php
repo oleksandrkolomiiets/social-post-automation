@@ -135,7 +135,7 @@ class PostService
         return [
             '{{name}}' => $partner->name,
             '{{phone}}' => $partner->phone,
-            '{{website}}' => $partner->website,
+            '{{website}}' => $partner->website, // TODO standardize it, now it's https://company.com or company.com
             '{{country}}' => $partner->country,
         ];
     }
