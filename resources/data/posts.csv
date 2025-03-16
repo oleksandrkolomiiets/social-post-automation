@@ -1,0 +1,21 @@
+title,headline,message,link
+Welcome!,"Welcome, {{name}}!",Check out our latest updates.,{{website}}/welcome
+Contact Us,Have questions? Call us!,Reach us anytime at {{phone}}.,https://support.company.com
+Special Offer,Exclusive for {{country}}!,Get the best deals now.,https://offers.company.com
+Join Us,Expand your business!,Partner with {{company}} today!,https://partners.company.com
+Update,New opportunities available,Explore the latest in {{industry}}.,{{website}}/update
+Newsletter,Stay informed!,Subscribe now for updates.,https://newsletter.company.com
+Promo,Big discounts in {{country}}!,Limited-time offer available!,{{webshop}}/promo
+Support,Need help?,Call {{phone}} or visit our website.,{{website}}/support
+Holiday Sale,Happy Holidays!,Don't miss out on amazing deals!,https://holidays.company.com
+Testimonial,Hear from our customers!,Read our success stories.,{{website}}/stories
+Tech Update,New tech insights!,Discover the future of {{industry}}.,https://technews.company.com
+Webinar,Join our webinar!,Sign up today!,{{website}}/webinar
+Partnership,Become a partner!,Let's work together!,https://partners.company.com
+Referral Program,Refer and earn!,Recommend us and get rewards.,{{webshop}}/refer
+Job Opening,We're hiring!,Check out opportunities.,https://careers.company.com
+Customer Care,How can we assist?,Contact support for help.,{{website}}/help
+Event Invitation,Join us in {{country}}!,Register now.,https://events.company.com
+Product Launch,New product available!,Learn more at {{website}}.,https://products.company.com
+Survey,Your feedback matters!,Take our survey now!,{{webshop}}/survey
+Exclusive Deal,Special offer for {{name}}!,Unlock now.,https://exclusive.company.com
